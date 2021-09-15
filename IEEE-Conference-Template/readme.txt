@@ -1,1 +1,1 @@
-The repository is for summer-school-recording
+summer school recording
